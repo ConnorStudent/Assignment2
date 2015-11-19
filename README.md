@@ -1,3 +1,3 @@
-# COMP2068-Week8
+# connor student
 
-Repo for Advanced Web Programming - Authentication @ GeorgianCollege
+assignment 2
